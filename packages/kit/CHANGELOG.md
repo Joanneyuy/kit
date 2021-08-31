@@ -1,5 +1,13 @@
 # @sveltejs/kit
 
+## 1.0.0-next.161
+
+### Patch Changes
+
+- Allow service workers to access files using the \$lib alias ([#2326](https://github.com/sveltejs/kit/pull/2326))
+
+* support using arrays for kit.vite.resolve.alias ([#2328](https://github.com/sveltejs/kit/pull/2328))
+
 ## 1.0.0-next.160
 
 ### Patch Changes
